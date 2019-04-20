@@ -1,11 +1,9 @@
 Package: com.karimo299.dndallow
 Name: DNDAllow
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Allows specific apps to be shown when DND/Bedtime is activated.
 Maintainer: Karimo299
 Author: Karimo299
 Section: Tweaks
-Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dndallow
-SileoDepiction: https://karimo299.github.io/repo/sileo/dndallow/
